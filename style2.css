@@ -1,0 +1,72 @@
+
+.frame{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.main{
+    margin:60px 100px;
+}
+
+.heading{
+    text-decoration: underline;
+}
+
+.gm_pic1{
+    width: 150px;
+    height: 150px;
+    margin-right: 50px;
+}
+
+.info_main{
+    display: flex;
+    flex-direction: column;
+}
+
+.gm_info{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: flex-start;
+    margin: 50px 0px;
+}
+
+.gm_comment{
+    display: flex;
+    flex-direction: column;
+   margin-left: 50px;
+}
+
+.unimate_pic{
+    width: 40%;
+    height: 40%;
+    margin-right: 200px;
+}
+.gm_pic2{
+    width: 40%;
+    margin-left: 100px;
+} 
+
+.spotwelding-pic{
+    width: 30%;
+    height: 30%;
+}
+.gun-pic{
+    width: 30%;
+    height: 30%;
+    margin-right: 100px;
+}
+
+.gm_pic3{
+    height: 40%;
+    margin-right: 60px;
+}
+
+.hyundai-comment{
+    display: flex;
+    flex-direction: column;
+
+}
+

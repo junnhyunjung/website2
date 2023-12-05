@@ -1,0 +1,68 @@
+.body{
+    background-color: rgb(164, 164, 164);
+}
+.frame{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.main{
+    margin:60px 100px;
+}
+
+.heading{
+    text-decoration: underline;
+}
+
+.am_info{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: flex-start;
+    margin-bottom: 100px;
+}
+
+.scara_pic{
+    width: 50%;
+    height: 50%;
+}
+
+.am_pic1{
+    width: 40%;
+    height: 40%;
+    margin-right: 50px;
+}
+
+.am_unimate{
+    width: 40%;
+    height: 40%;
+    margin-right: 80px;
+}
+
+.delta_pic{
+    width: 35%;
+    height: 35%;
+    margin: 50px;
+}
+
+.articulated_pic{
+    width: 40%;
+    height: 40%;
+    margin-left: 10px;
+}
+
+
+.am-comment{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.ai-pic{
+    width: 30%;
+    height: 30%;
+    margin-right: 60px;
+}
